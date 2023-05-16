@@ -3,8 +3,8 @@
 <body>
 <head> <b> American Psychologist, 21(2), 109–115. </b> </head>
 <br>
-<body bgcolor= azure>
-<body text = black>
+<body bgcolor= 	platinum>
+<body text = iridium>
 <h1> The pigeon as a quality-control inspector</h1></p>
 <br> <h4> Thom Verhave, 1966.</h4>
 <i>Arizona State University </i> </br>
