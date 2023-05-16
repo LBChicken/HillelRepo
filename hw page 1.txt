@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+<head> <b> American Psychologist, 21(2), 109–115. </b> </head>
+<br>
+<body bgcolor= azure>
+<body text = black>
+<h1> The pigeon as a quality-control inspector</h1></p>
+<br> <h4> Thom Verhave, 1966.</h4>
+<i>Arizona State University </i> </br>
+<h2> Contents </h2>
+<ol>
+<li><a href = "homework_p_2.html">Pigeons at work</a></li>
+<li><a href = "https://psycnet.apa.org/record/1966-07512-001">Full paid article version</a></li>
+</ol>
+<h3>Abstract</h3>
+<p> <blockquote>Many of the operations involved in the quality-control inspection of commercial products consist of monotonous checking jobs performed by human operators. They require little manual skill or dexterity, good visual acuity, color vision, and are difficult to automate. A device was built to permit inspection of pharmaceutical capsules by pigeons; pigeons "inspected on a 99% correct basis within 1 wk. of daily discrimination training." A technique for using 2 birds—double inspectors—was suggested with reward for defective capsules detected only when they both agreed for the purpose of further reducing error probability.</blockquote></p>
+</body>
+</html>
